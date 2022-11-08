@@ -1,0 +1,23 @@
+{
+  "name": "testing-practice-jest",
+  "version": "1.0.0",
+  "description": "Starting test practice with JEST",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lmunozm1702/testing-practice-jest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lmunozm1702/testing-practice-jest/issues"
+  },
+  "homepage": "https://github.com/lmunozm1702/testing-practice-jest#readme",
+  "devDependencies": {
+    "jest": "^29.3.0"
+  }
+}
